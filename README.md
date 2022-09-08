@@ -31,7 +31,9 @@ Similar to the Trips by Weekday per Hour, most usages for both Men and Women occ
 
 ### User Trips by Gender by Weekday
 
-We can see that there are highly more annual subscribers than customers.
+<img width="662" alt="user_trips_by_gender_by_weekday" src="https://user-images.githubusercontent.com/20058842/189239006-b1910ffa-8619-4416-9862-0e6c3898e541.png">
+
+We can see that there are highly more annual subscribers than customers. Most of these are trips made by men.
 
 ## Summary
 
