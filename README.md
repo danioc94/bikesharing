@@ -41,6 +41,6 @@ We can see that there are highly more annual subscribers than customers. Most of
 
 [link to dashboard](https://public.tableau.com/app/profile/daniel.ojeda/viz/NYCCitibikeStory_16626707234670/NYCCitibikeStory?publish=yes "link to story")
 
-
+<img width="755" alt="NYC_citibike_dashboard" src="https://user-images.githubusercontent.com/20058842/189239176-60194d5a-380a-4a5c-9b85-0da096b1aaf7.png">
 
 After all the results obtained, we can see that most users are subscribed men that most use a bike to and from work during rush hours. Weekends are also a high point of usage for all genders during most part of the day. If a bikesharing idea would to be start in Des Moines, it should be noted that these key features might be a good way to start and plan out a business.
