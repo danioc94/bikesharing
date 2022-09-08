@@ -25,7 +25,7 @@ During weekdays, we can see that most of the bike trips occurr during rush hours
 
 ### Trips by Gender (Weekday per hour)
 
-
+<img width="657" alt="trips_by_gender_weekday_per_hour" src="https://user-images.githubusercontent.com/20058842/189238869-533abc3d-885e-4be0-907a-97342e082287.png">
 
 Similar to the Trips by Weekday per Hour, most usages for both Men and Women occurr during weekday peak hours and weekends. The colors indicate that more men use bikes than women during these hours.
 
