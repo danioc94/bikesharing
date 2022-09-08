@@ -19,9 +19,13 @@ We can see that nearly 3x times of the checkout users were men (110k) over women
 
 ### Trips by Weekday per Hour
 
+<img width="263" alt="trips_by_weekday_per_hour" src="https://user-images.githubusercontent.com/20058842/189238789-8aff06bf-7bb4-4825-93d5-ae60da4d44e7.png">
+
 During weekdays, we can see that most of the bike trips occurr during rush hours: 7:00 AM - 9:00 AM and 5:00 PM - 7:00 PM. There are also high usage during weekends through most of the day.
 
 ### Trips by Gender (Weekday per hour)
+
+
 
 Similar to the Trips by Weekday per Hour, most usages for both Men and Women occurr during weekday peak hours and weekends. The colors indicate that more men use bikes than women during these hours.
 
