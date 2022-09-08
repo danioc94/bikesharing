@@ -13,7 +13,7 @@ We can see that most of the trip durations are around 10 min long (more than 140
 
 ### Checkout Times by Gender
 
-
+<img width="659" alt="checkout_time_gender" src="https://user-images.githubusercontent.com/20058842/189238668-9bd5a64e-29c7-4571-af70-aef4ba2f5f27.png">
 
 We can see that nearly 3x times of the checkout users were men (110k) over women (34k) for trip durations of 10 mins. No more than 7k users had an unidentified gender.
 
